@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.2.0",
+    "nuxt": "3.0.0-rc.1"
+  },
+  "dependencies": {
+    "browserify-fs": "^1.0.0",
+    "export-from-json": "^1.7.0",
+    "normalize.css": "^8.0.1",
+    "uuid": "^8.3.2"
+  }
+}
