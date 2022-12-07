@@ -17,6 +17,10 @@ npm install
 pnpm install --shamefully-hoist
 ```
 
+## Faker Js Config
+
+fakes can contain options. take a look at the official docs on https://fakerjs.dev/api/
+
 ## Development Server
 
 Start the development server on http://localhost:3000
