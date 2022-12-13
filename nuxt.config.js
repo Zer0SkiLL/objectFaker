@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     css: ['normalize.css/normalize.css'],
 
     head: {
-    title: 'Object Faker',
+    title: 'Object Faker ',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   },
 
   router: {
-    base: '/'
+    base: '/objectfaker'
   },
 
   generate: {
